@@ -3,7 +3,7 @@ Proyecto para la materia de ml en la Unison.
 
 análisis del dataset Wikipedia Movie Plots de Kaggle
 
-## Descripción de las columnas del dataset
+## Descripción de los datos
 
 La base de datos contiene descripciones para 34,886 películas de todo el mundo. las columnas son las siguientes:
 
