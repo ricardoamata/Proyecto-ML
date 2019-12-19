@@ -14,4 +14,4 @@ La base de datos contiene descripciones para 34,886 películas de todo el mundo.
 - Cast - Actores y actrices principales
 - Genre - Genero(s) de la película
 - Wiki Page - URL de la pagina de Wikipedia de la cual la descripción de la trama fue tomada
-- Plot - descripción larga de la trama de la película (ADVERTENCIA: puede contener espoilers)
+- Plot - descripción larga de la trama de la película (ADVERTENCIA: puede contener spoilers)
